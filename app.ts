@@ -6,7 +6,7 @@ import {
   onNotExistBriefing,
   conversationWithBiuma,
   createChat
-} from '@utils/bingChat';
+} from './src/utils/bingChat';
 
 dotenv.config()
 
